@@ -1,0 +1,8 @@
+{
+  "name": "Localora – Discover Beyond Destinations",
+  "description": "Smart local tourism marketplace connecting travelers with homestays, tour guides, hidden gems, traditional food, and cultural experiences across all of Karnataka.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
